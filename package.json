@@ -1,9 +1,11 @@
 {
   "name": "keelrail",
-  "version": "0.0.1",
-  "description": "The non-custodial payment rail for AI & agent work — pay per call/outcome in USDC.",
-  "keywords": ["x402","agents","usdc","payments","ai","rail","agent-economy"],
-  "license": "SEE LICENSE IN LICENSE",
-  "homepage": "https://keelrail.com",
+  "version": "0.1.0",
+  "description": "The non-custodial payment rail for AI & agent work — pay per call/outcome in USDC across chains.",
+  "keywords": ["x402","agents","usdc","payments","ai","rail","agent-economy","base","stablecoin"],
+  "license": "MIT",
+  "homepage": "https://github.com/cschett13-collab/keelrail",
+  "repository": { "type": "git", "url": "git+https://github.com/cschett13-collab/keelrail.git" },
+  "bugs": { "url": "https://github.com/cschett13-collab/keelrail/issues" },
   "files": ["README.md","INTERFACE.md","LICENSE"]
 }
