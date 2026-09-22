@@ -1,0 +1,9 @@
+{
+  "name": "keelrail",
+  "version": "0.0.1",
+  "description": "The non-custodial payment rail for AI & agent work — pay per call/outcome in USDC.",
+  "keywords": ["x402","agents","usdc","payments","ai","rail","agent-economy"],
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://keelrail.com",
+  "files": ["README.md","INTERFACE.md","LICENSE"]
+}
