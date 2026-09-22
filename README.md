@@ -60,3 +60,5 @@ If keelrail is useful, sponsorship keeps it moving — see `.github/FUNDING.yml`
 
 ## License
 MIT (this interface). "keelrail" and the engine are © Client Engine LC.
+
+**Commercial / enterprise:** the engine is available under a commercial license — see [COMMERCIAL.md](COMMERCIAL.md).
